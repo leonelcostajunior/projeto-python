@@ -1,7 +1,7 @@
-venda = 1000
+vendas = 1100
 
-custo = 300
-
-lucro = venda - custo
-
-print("O lucro foi de ", lucro)
+if vendas > 1000:
+    print("Ganhou bônus")
+else:
+    print("Não anhou bônus")
+    
