@@ -4,4 +4,4 @@ custo = 300
 
 lucro = venda - custo
 
-print(lucro)
+print("O lucro foi de ", lucro)
